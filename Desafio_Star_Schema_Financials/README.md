@@ -96,7 +96,7 @@ A construção do Star Schema foi realizada em duas fases principais: transforma
 
 Abaixo está o diagrama do modelo de dados Star Schema construído:
 
-![Diagrama Star Schema](Star_Schema_Diagram.png)
+![Diagrama Star Schema](Modelo_Star_Schema.png)
 
 ## Desafios Enfrentados e Soluções
 
